@@ -8,9 +8,6 @@ A simple Mario game built using Python and the Pygame library. This project demo
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
