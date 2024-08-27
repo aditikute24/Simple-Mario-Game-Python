@@ -43,7 +43,7 @@ To run the game, you need to have Python and Pygame installed on your system.
 To start the game, navigate to the project directory and run the main script:
 
 ```bash
-python main.py
+python mario.py
 ```
 
 ## Gameplay
